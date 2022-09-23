@@ -2,7 +2,7 @@
 This directory contains a sneak peak into the Introduction to Real Estate Data Analytics course. The series of notebooks will teach you Python programming from scratch. Follow along on the [AnalyticsAriel YouTube channel](https://www.youtube.com/playlist?list=PLDuVhKHWKVcairaRHXAVnXHw6puFCu3r2).
 
 ## Course
-### Link 🔗
+### Link
 Sign up for the [Introduction to Real Estate Data Analytics course](https://analyticsariel.teachable.com/p/real-estate-data-analytics) for a step-by-step guide to analyze the US real estate housing market.
 
 ### Description
