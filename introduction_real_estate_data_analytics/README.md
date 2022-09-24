@@ -1,5 +1,7 @@
 # Introduction to Real Estate Data Analytics
-This directory contains a sneak peak into the Introduction to Real Estate Data Analytics course. The series of notebooks will teach you Python programming from scratch. Follow along on the [AnalyticsAriel YouTube channel](https://www.youtube.com/playlist?list=PLDuVhKHWKVcairaRHXAVnXHw6puFCu3r2).
+This directory contains a sneak peak into the Introduction to Real Estate Data Analytics course. The series of notebooks will teach you Python programming from scratch. 
+
+Follow along on the [AnalyticsAriel YouTube channel](https://www.youtube.com/playlist?list=PLDuVhKHWKVcairaRHXAVnXHw6puFCu3r2).
 
 ## Course
 ### Link
